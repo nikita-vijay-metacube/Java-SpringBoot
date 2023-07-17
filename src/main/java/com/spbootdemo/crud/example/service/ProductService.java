@@ -1,7 +1,7 @@
-package com.javatechie.crud.example.service;
+package com.spbootdemo.crud.example.service;
 
-import com.javatechie.crud.example.entity.Product;
-import com.javatechie.crud.example.repository.ProductRepository;
+import com.spbootdemo.crud.example.entity.Product;
+import com.spbootdemo.crud.example.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
